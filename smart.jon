@@ -3,7 +3,7 @@
   "description": "a wrapper for autolinker",
   "homepage": "https://github.com/golden-illusion/autolinker-wrapper",
   "author": "Hieu Dang <hoanghieu3690@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "git": "git@github.com:golden-illusion/autolinker-wrapper.git",
   "packages": {
   }
